@@ -1,0 +1,4 @@
+DO
+Use method chaining whenever you see the opportunity to reduce code that has been repeated.
+DON'T
+If that is not the case, and it's just going to complicate matters. 

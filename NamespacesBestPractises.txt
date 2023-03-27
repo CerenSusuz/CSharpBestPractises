@@ -1,0 +1,8 @@
+Namespaces
+DO
+Follow Format: <Company>.<Technology>.<Feature>
+Use PascalCasing
+
+DON'T
+Use 'system'
+Use class name: Namespace:Actor Class:Actor

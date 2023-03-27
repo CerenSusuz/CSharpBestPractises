@@ -1,0 +1,13 @@
+Method overloading is used to create methods wiht the same name and purpose but different signatures.
+* the method names must be the same.
+* the number of type of parameters must be different.
+* the return type isn't taken into account.
+
+DO
+Include comments for the method and parameters
+Use few parameters
+Order the parameters consistently
+
+DON'T
+Use overloads with same names but different purpose
+Duplicate code

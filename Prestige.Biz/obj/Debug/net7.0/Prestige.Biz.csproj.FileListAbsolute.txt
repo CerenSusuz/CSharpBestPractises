@@ -1,0 +1,15 @@
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\bin\Debug\net7.0\Prestige.Biz.exe
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\bin\Debug\net7.0\Prestige.Biz.deps.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\bin\Debug\net7.0\Prestige.Biz.runtimeconfig.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\bin\Debug\net7.0\Prestige.Biz.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\bin\Debug\net7.0\Prestige.Biz.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\obj\Debug\net7.0\Prestige.Biz.csproj.AssemblyReference.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\obj\Debug\net7.0\Prestige.Biz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\obj\Debug\net7.0\Prestige.Biz.AssemblyInfoInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\obj\Debug\net7.0\Prestige.Biz.AssemblyInfo.cs
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\obj\Debug\net7.0\Prestige.Biz.csproj.CoreCompileInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\obj\Debug\net7.0\Prestige.Biz.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\obj\Debug\net7.0\refint\Prestige.Biz.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\obj\Debug\net7.0\Prestige.Biz.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\obj\Debug\net7.0\Prestige.Biz.genruntimeconfig.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\CSharpBestPractises\Prestige.Biz\obj\Debug\net7.0\ref\Prestige.Biz.dll

@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prestige.Biz", "Prestige.Biz\Prestige.Biz.csproj", "{C6723FFA-8B01-47A8-9987-1E36416B5BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prestige.Biz.Test", "Prestige.Biz.Test\Prestige.Biz.Test.csproj", "{749FFC5B-5EE2-4A41-8EB1-DE0AF344E7E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{686B3701-9969-4FDD-BA77-D695A7168D4A}"
+	ProjectSection(SolutionItems) = preProject
+		BestPractises.txt = BestPractises.txt
+		ConstantsandRead-Only Fields.txt = ConstantsandRead-Only Fields.txt
+		ConstructorBestPractises.txt = ConstructorBestPractises.txt
+		MethodChaining.txt = MethodChaining.txt
+		MethodOverloadingBestPractises.txt = MethodOverloadingBestPractises.txt
+		NamespacesBestPractises.txt = NamespacesBestPractises.txt
+		Naming Conventions.txt = Naming Conventions.txt
+		ClassBestPractiese.txt = ClassBestPractiese.txt
+		Properties.txt = Properties.txt
+		StaticClassBestPRactises.txt = StaticClassBestPRactises.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prestige.Common", "Prestige.Common\Prestige.Common.csproj", "{A18ED9CE-4FBE-4630-9FA4-95433EDB8AEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{E950C54F-F003-4CCA-990E-3B10521820B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prestige.Common.Test", "Prestige.Common.Test\Prestige.Common.Test.csproj", "{F4928491-AC28-480C-AF73-236505D64135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6723FFA-8B01-47A8-9987-1E36416B5BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6723FFA-8B01-47A8-9987-1E36416B5BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6723FFA-8B01-47A8-9987-1E36416B5BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6723FFA-8B01-47A8-9987-1E36416B5BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749FFC5B-5EE2-4A41-8EB1-DE0AF344E7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749FFC5B-5EE2-4A41-8EB1-DE0AF344E7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749FFC5B-5EE2-4A41-8EB1-DE0AF344E7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749FFC5B-5EE2-4A41-8EB1-DE0AF344E7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18ED9CE-4FBE-4630-9FA4-95433EDB8AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18ED9CE-4FBE-4630-9FA4-95433EDB8AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18ED9CE-4FBE-4630-9FA4-95433EDB8AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18ED9CE-4FBE-4630-9FA4-95433EDB8AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4928491-AC28-480C-AF73-236505D64135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4928491-AC28-480C-AF73-236505D64135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4928491-AC28-480C-AF73-236505D64135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4928491-AC28-480C-AF73-236505D64135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{749FFC5B-5EE2-4A41-8EB1-DE0AF344E7E3} = {E950C54F-F003-4CCA-990E-3B10521820B7}
+		{F4928491-AC28-480C-AF73-236505D64135} = {E950C54F-F003-4CCA-990E-3B10521820B7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8E928AF-BF2E-41B1-A4E0-5CB06E97F7F4}
+	EndGlobalSection
+EndGlobal

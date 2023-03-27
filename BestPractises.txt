@@ -1,0 +1,9 @@
+C# Best Practises
+Standards and conventions serve the following purposes. 
+They create a consistent look to the code so that 
+readers can focus on the content and not the layout. 
+They also enable readers to understand the code more quickly 
+by making assumptions based on previous experience, 
+and they facilitate copying, changing, and maintaining the code.
+
+When to use them: Most of the time!

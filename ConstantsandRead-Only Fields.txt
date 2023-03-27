@@ -1,0 +1,19 @@
+Constant
+* compile-time 
+* assigned on declaration
+* only number, boolean or string 
+* Always static
+
+Read-only
+* runtime 
+* assigned on declaration or constructor
+* any data type
+* optionally static
+
+DO
+Define meaninful names
+Use PascalCasing
+
+DON'T
+Use uppercase/abbreviations
+Use for fileds with values changing

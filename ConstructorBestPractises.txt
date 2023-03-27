@@ -1,0 +1,8 @@
+Constructors
+DO
+Provide default consturctor
+Conside parameterzed constructor
+Name parameters the same name relaed properties
+
+DON'T
+Perform too much work

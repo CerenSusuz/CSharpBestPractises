@@ -1,0 +1,10 @@
+Static Classes
+
+DO
+You want to use static classes sparingly, and the main reason why is because they're meant for supporting classes. 
+They don't really work well with OOP features.
+They don't implement an interface.
+They can't have parameterized constructors, and they can't be inherited from.
+So, they're good for something like common utilities.
+DON'T
+Use as a random bucket

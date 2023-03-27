@@ -1,0 +1,12 @@
+Classes
+DO
+Use PascalCasing snd meaninful names!
+Use properties
+Add doc comments
+Well-defined purpose
+One class per code file
+Add properties above methods
+
+DON'T
+Use prefixes, underscores, or abbreviations in names
+Large classes

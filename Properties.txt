@@ -1,0 +1,18 @@
+Properties
+provides flexible mechanism to do the following to private fields: 
+* Read
+* Write
+* Compute its value
+
+Think of them as accessors providing access to data with safety and flexibility.
+
+Code we put into the getter and setters depends on:
+* what the property is
+* how it will be used
+- protection it requires
+
+getter = lazy loading
+setter = validate incoming value
+
+When no additional logic is need in a property, you should consider using Auto Implemented Properties.
+There are two things that to keep in mind when creating Auto-Implemented Properties?
